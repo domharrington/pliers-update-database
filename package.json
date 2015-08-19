@@ -1,7 +1,7 @@
 {
   "name": "pliers-update-database",
   "description": "Pliers task to wrap common usage of the database-updates module",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "dependencies": {
     "database-updates": "^1.1.0"
   },
